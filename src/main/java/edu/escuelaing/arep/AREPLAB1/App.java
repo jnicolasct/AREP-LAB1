@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args ) throws IOException {
         System.out.println( "Hello World!" );
         LinkedList lista = new LinkedList();
-        File archivo = new File ("C:\\Users\\johan\\Desktop\\U\\10 Semestre\\AREP\\datos3.txt");
+        File archivo = new File ("C:\\Users\\johan\\Desktop\\U\\10 Semestre\\AREP\\AREPLAB1\\src\\main\\java\\edu\\escuelaing\\arep\\AREPLAB1\\datos3.txt");
         FileReader fr = new FileReader (archivo);
         BufferedReader br = new BufferedReader(fr);
         String linea = br.readLine();
