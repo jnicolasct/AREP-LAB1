@@ -33,9 +33,11 @@ Para la compilacion, dentro del directorio del pryecto desde la cmd ejecutar el 
 ## Contexto
 
   - Media: es el promedio de un conjunto de datos, acontinuacion la fromula.
+  
     ![image](https://user-images.githubusercontent.com/47215172/90081834-0d261b00-dcd4-11ea-8339-5247e1f6bd4f.png)
   
   - Desviacion estandar: es una medida de la extensión o dispersión de un conjunto de datos, acontinuacion la formula.
+  
     ![image](https://user-images.githubusercontent.com/47215172/90081942-3181f780-dcd4-11ea-86d8-b36b580ac64e.png)
     
     
