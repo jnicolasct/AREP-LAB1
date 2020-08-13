@@ -54,5 +54,7 @@ Para la compilacion, dentro del directorio del pryecto desde la cmd ejecutar el 
   
 ## Reporte
 
+El reporte fue generado mediante latex, su nombre es Media y Desviacion estadar. Se encuentra en la raiz del proyecto
+
 ## Autor
   Johan Nicolas Cortes Torres
